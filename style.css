@@ -9,3 +9,6 @@ menu{
     justify-content: center;
     background-color: #333;
 }
+menu li{
+    margin: 0 15px;
+}
